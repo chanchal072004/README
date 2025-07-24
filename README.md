@@ -24,10 +24,7 @@ Here are a few projects I'm proud of:
 
 > 🔍 *More coming soon...*
 
-## 📊 GitHub Stats
-![Chanchal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanchal-aher&show_icons=true&theme=radical)
 
----
 
 ⭐️ **Thanks for visiting my profile!**  
 Let’s connect and grow together 🚀
