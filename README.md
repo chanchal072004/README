@@ -28,8 +28,8 @@ A smart voice bot that interacts with users in real-time using:
 
 ---
 
-📍 **Location**: Nashik, Maharashtra, India  
-📧 **Email**: chanchalaher2003@gmail.com  
+
+
 📘 **Learning**: Cloud Projects | DSA in Python | Full Stack Tech  
 🤝 **Collab**: Open to working on cloud-based and web-based projects
 
@@ -63,14 +63,6 @@ A smart voice bot that interacts with users in real-time using:
   </a>
 </p>
 
----
 
-## 📈 GitHub Stats & Badges
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanchal-aher&layout=compact&theme=radical" />
-</p>
-
----
 
 ⭐ _“Exploring the cloud ☁️, building the web 🌐, and coding the future 💻.”_
