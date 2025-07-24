@@ -39,19 +39,8 @@
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="aws" />
 </p>
 
----
 
-### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanchal-aher&layout=compact&theme=tokyonight" alt="top-langs" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=chanchal-aher&show_icons=true&theme=tokyonight" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanchal-aher&theme=tokyonight" alt="streak" />
-</p>
-
----
 
 <p align="center">
   🚀 Always building, always learning!  
